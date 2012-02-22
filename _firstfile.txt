@@ -1,3 +1,7 @@
 This is a test file.
 Lorem ipsum dolor sit amet...
 
+<<<<<<< HEAD
+=======
+This is text for my 2nd commit.
+>>>>>>> 96f8d2b6450197b3c6f801ac85ef4ccb5de034a7
