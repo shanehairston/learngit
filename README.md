@@ -1,2 +1,2 @@
 # learngit
-using this repository for learning git
+I am using this repository for learning git.
